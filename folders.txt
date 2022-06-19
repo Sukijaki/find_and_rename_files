@@ -1,0 +1,7 @@
+main_dir
+main_dir/dir1
+main_dir/dir2
+main_dir/dir1/dir1_1
+main_dir/dir1/dir1_2
+main_dir/dir2/dir2_1
+main_dir/dir2/dir2_2

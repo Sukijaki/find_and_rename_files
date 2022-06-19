@@ -1,0 +1,11 @@
+main_dir/project_resource[0]_dev.yaml
+main_dir/dir1/project_resource[1]_dev.yaml
+main_dir/dir1/project_resource[2]_dev.yaml
+main_dir/dir1/dir1_1/project_resource[3]_dev.yaml
+main_dir/dir1/dir1_1/project_resource[4]_dev.yaml
+main_dir/dir1/dir1_2/project_resource[5]_dev.yaml
+main_dir/dir1/dir1_2/project_resource[6]_dev.yaml
+main_dir/dir2/project_resource[7]_dev.yaml
+main_dir/dir2/project_resource[8]_dev.yaml
+main_dir/dir2/dir2_2/project_resource[9]_dev.yaml 
+main_dir/dir2/dir2_2/project_resource[10]_dev.yaml
