@@ -1,8 +1,8 @@
 #!/bin/bash
 
 declare -a STRINGS_TO_REPLACE
-STRINGS_TO_REPLACE=("_dev")
-
+STRING_TO_REPLACE=("_dev")
+NEW_STRING=("_prod")
 
 ################################
 
@@ -24,7 +24,7 @@ rename_files_remove_old_tags() {
             then
                 # echo "Will rename $justfilenamenopath"
                 test -e "$n" &&
-                    newfilename=$(echo "$justfilenamenopath" | sed "s/$current_string/_prod/g")
+                    newfilename=$(echo "$justfilenamenopath" | sed "s/$current_string/$NEW_STRING/g")
                     mv -v "$n" "$justpathnofile/$newfilename"
                 break;
             fi
