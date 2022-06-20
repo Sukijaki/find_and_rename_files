@@ -1,4 +1,5 @@
 main_dir/project_resource[0]_dev.yaml
+main_dir/project_resources\ [11]_dev.yaml
 main_dir/dir1/project_resource[1]_dev.yaml
 main_dir/dir1/project_resource[2]_dev.yaml
 main_dir/dir1/dir1_1/project_resource[3]_dev.yaml
